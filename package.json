@@ -1,9 +1,10 @@
 {
-  "name": "lint-config",
+  "name": "@yukiniro/eslint-config",
   "version": "0.0.1",
   "description": "My lint rules",
   "main": "index.js",
   "scripts": {
+    "publish": "pnpm publish",
     "test": "echo \"Error: no test specified\" && exit 1",
     "eslint": "npx eslint demo",
     "eslint:fix": "npx eslint demo --fix"
