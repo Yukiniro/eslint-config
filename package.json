@@ -1,6 +1,6 @@
 {
   "name": "@yukiniro/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "My lint rules",
   "main": "index.js",
   "scripts": {
@@ -17,8 +17,7 @@
   ],
   "author": "Yukiniro",
   "license": "MIT",
-  "devDependencies": {
-    "eslint": "^8.10.0",
+  "dependencies": {
     "eslint-config-prettier": "^8.5.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.25.4",
@@ -26,5 +25,8 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-promise": "^6.0.0",
     "prettier": "^2.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.10.0"
   }
 }
