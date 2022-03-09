@@ -4,7 +4,7 @@
   "description": "My lint rules",
   "main": "index.js",
   "scripts": {
-    "publish": "pnpm publish",
+    "publish": "npm publish --access public",
     "test": "echo \"Error: no test specified\" && exit 1",
     "eslint": "npx eslint demo",
     "eslint:fix": "npx eslint demo --fix"
