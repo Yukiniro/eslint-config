@@ -1,0 +1,29 @@
+{
+  "name": "lint-config",
+  "version": "0.0.1",
+  "description": "My lint rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "npx eslint demo",
+    "eslint:fix": "npx eslint demo --fix"
+  },
+  "keywords": [
+    "lint",
+    "prettier",
+    "eslint",
+    "config"
+  ],
+  "author": "Yukiniro",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "prettier": "^2.5.1"
+  }
+}
