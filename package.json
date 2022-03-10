@@ -1,7 +1,7 @@
 {
   "name": "@yukiniro/eslint-config",
-  "version": "0.0.2",
-  "description": "My lint rules",
+  "version": "0.0.3",
+  "description": "My eslint rules",
   "main": "index.js",
   "scripts": {
     "publish": "npm publish --access public",
@@ -10,8 +10,6 @@
     "eslint:fix": "npx eslint demo --fix"
   },
   "keywords": [
-    "lint",
-    "prettier",
     "eslint",
     "config"
   ],
