@@ -13,6 +13,10 @@
     "eslint",
     "config"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yukiniro/eslint-config"
+  },
   "author": "Yukiniro",
   "license": "MIT",
   "dependencies": {
