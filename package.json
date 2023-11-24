@@ -1,6 +1,6 @@
 {
   "name": "@yukiniro/eslint-config",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "My eslint rules",
   "main": "index.js",
   "scripts": {
@@ -20,16 +20,16 @@
   "author": "Yukiniro",
   "license": "MIT",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.59.1",
-    "@typescript-eslint/parser": "^5.59.1",
-    "eslint": "^8.39.0",
-    "eslint-config-prettier": "^8.8.0",
-    "eslint-config-standard": "^17.0.0",
-    "eslint-plugin-import": "^2.27.5",
+    "@typescript-eslint/eslint-plugin": "^6.12.0",
+    "@typescript-eslint/parser": "^6.12.0",
+    "eslint": "^8.54.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.0",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-prettier": "^5.0.1",
     "eslint-plugin-promise": "^6.1.1",
-    "prettier": "^2.8.8",
-    "typescript": "^5.0.4"
+    "prettier": "^3.1.0",
+    "typescript": "^5.3.2"
   }
 }
